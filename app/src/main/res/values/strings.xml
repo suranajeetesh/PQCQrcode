@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PQC Qr code</string>
+    <string name="app_id">ca-app-pub-9982245873913738~9799290743</string>
+
+    <string name="choose_a_type_of_qr_code">Choose a type of QR code</string>
+    <string name="not_internet">Not Internet</string>
+    <string name="contact">contact</string>
+    <string name="web">WEB</string>
+    <string name="sms">SMS</string>
+    <string name="app">App</string>
+    <string name="phone">PHONE</string>
+    <string name="multi_url">Multi-URL</string>
+    <string name="email">Email</string>
+    <string name="text">Text</string>
+    <string name="generaterqr">Generater</string>
+    <string name="url">URL</string>
+    <string name="utl">URL:</string>
+    <string name="my_qr_code">My QR code</string>
+    <string name="title">Title</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="name">Name</string>
+    <string name="appurl">AppUrl</string>
+    <string name="message">Message</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_store">App Store</string>
+    <string name="play_store">Play Store</string>
+    <string name="invalid_app_URL">Invalid App URL</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="enter_name">"Enter Name"</string>
+    <string name="invalid_phone_number">Invalid Phone Number</string>
+    <string name="name_hint">John Doe</string>
+    <string name="subject">Subject</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="number_hint">Number</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="hint_phone">1234567890</string>
+    <string name="input_text">Input Text</string>
+    <string name="invalid_URl">Invalid URl</string>
+    <string name="email_hint">john.doe@example.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_image">back image</string>
+    <string name="failed_to_create_file">Failed to create file</string>
+    <string name="failed_to_create_directory">Failed to create directory</string>
+
+</resources>

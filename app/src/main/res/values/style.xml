@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="edit_text">
+        <item name="android:paddingHorizontal" tools:ignore="NewApi">16dp</item>
+        <item name="android:paddingVertical" tools:ignore="NewApi">9dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:background">@drawable/shape_btn_generate</item>
+        <item name="android:backgroundTint">@color/light_silver</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="RoundedShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- Adjust the percentage as needed -->
+    </style>
+    <style name="btn_generater">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/generaterqr</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:inputType">none</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_marginTop">48dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/shape_btn_generate</item>
+        <item name="android:backgroundTint">@color/light_silver</item>
+    </style>
+    <style name="cl_main_background">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:clipChildren">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">@color/independence</item>
+        <item name="android:clipToPadding">false</item>
+    </style>
+</resources>
